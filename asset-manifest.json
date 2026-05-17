@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Travelo-travel-agency-react-website/static/css/main.ade80fe1.chunk.css",
-    "main.js": "/Travelo-travel-agency-react-website/static/js/main.08319d27.chunk.js",
-    "main.js.map": "/Travelo-travel-agency-react-website/static/js/main.08319d27.chunk.js.map",
+    "main.js": "/Travelo-travel-agency-react-website/static/js/main.78ca8f0d.chunk.js",
+    "main.js.map": "/Travelo-travel-agency-react-website/static/js/main.78ca8f0d.chunk.js.map",
     "runtime-main.js": "/Travelo-travel-agency-react-website/static/js/runtime-main.8d7a5c7f.js",
     "runtime-main.js.map": "/Travelo-travel-agency-react-website/static/js/runtime-main.8d7a5c7f.js.map",
     "static/js/2.65450f96.chunk.js": "/Travelo-travel-agency-react-website/static/js/2.65450f96.chunk.js",
@@ -16,13 +16,15 @@
     "static/media/Destination4.c19a433b.png": "/Travelo-travel-agency-react-website/static/media/Destination4.c19a433b.png",
     "static/media/Destination5.8db742a0.png": "/Travelo-travel-agency-react-website/static/media/Destination5.8db742a0.png",
     "static/media/Destination6.b43b40eb.png": "/Travelo-travel-agency-react-website/static/media/Destination6.b43b40eb.png",
-    "static/media/avatarImage.d37df039.jpeg": "/Travelo-travel-agency-react-website/static/media/avatarImage.d37df039.jpeg",
+    "static/media/blog1.d51af422.jpg": "/Travelo-travel-agency-react-website/static/media/blog1.d51af422.jpg",
+    "static/media/blog2.dc40ffa7.jpg": "/Travelo-travel-agency-react-website/static/media/blog2.dc40ffa7.jpg",
+    "static/media/blog3.3d3b146c.jpg": "/Travelo-travel-agency-react-website/static/media/blog3.3d3b146c.jpg",
     "static/media/hero.decd6e52.png": "/Travelo-travel-agency-react-website/static/media/hero.decd6e52.png"
   },
   "entrypoints": [
     "static/js/runtime-main.8d7a5c7f.js",
     "static/js/2.65450f96.chunk.js",
     "static/css/main.ade80fe1.chunk.css",
-    "static/js/main.08319d27.chunk.js"
+    "static/js/main.78ca8f0d.chunk.js"
   ]
 }
