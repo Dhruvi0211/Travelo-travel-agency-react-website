@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Travelo-travel-agency-react-website/static/css/main.ade80fe1.chunk.css",
+    "main.js": "/Travelo-travel-agency-react-website/static/js/main.767841a8.chunk.js",
+    "main.js.map": "/Travelo-travel-agency-react-website/static/js/main.767841a8.chunk.js.map",
+    "runtime-main.js": "/Travelo-travel-agency-react-website/static/js/runtime-main.8d7a5c7f.js",
+    "runtime-main.js.map": "/Travelo-travel-agency-react-website/static/js/runtime-main.8d7a5c7f.js.map",
+    "static/js/2.65450f96.chunk.js": "/Travelo-travel-agency-react-website/static/js/2.65450f96.chunk.js",
+    "static/js/2.65450f96.chunk.js.map": "/Travelo-travel-agency-react-website/static/js/2.65450f96.chunk.js.map",
+    "index.html": "/Travelo-travel-agency-react-website/index.html",
+    "static/css/main.ade80fe1.chunk.css.map": "/Travelo-travel-agency-react-website/static/css/main.ade80fe1.chunk.css.map",
+    "static/js/2.65450f96.chunk.js.LICENSE.txt": "/Travelo-travel-agency-react-website/static/js/2.65450f96.chunk.js.LICENSE.txt",
+    "static/media/Destination1.b43b40eb.png": "/Travelo-travel-agency-react-website/static/media/Destination1.b43b40eb.png",
+    "static/media/Destination2.64eec980.png": "/Travelo-travel-agency-react-website/static/media/Destination2.64eec980.png",
+    "static/media/Destination3.b4028caa.png": "/Travelo-travel-agency-react-website/static/media/Destination3.b4028caa.png",
+    "static/media/Destination4.c19a433b.png": "/Travelo-travel-agency-react-website/static/media/Destination4.c19a433b.png",
+    "static/media/Destination5.8db742a0.png": "/Travelo-travel-agency-react-website/static/media/Destination5.8db742a0.png",
+    "static/media/Destination6.b43b40eb.png": "/Travelo-travel-agency-react-website/static/media/Destination6.b43b40eb.png",
+    "static/media/avatarImage.d37df039.jpeg": "/Travelo-travel-agency-react-website/static/media/avatarImage.d37df039.jpeg",
+    "static/media/hero.decd6e52.png": "/Travelo-travel-agency-react-website/static/media/hero.decd6e52.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8d7a5c7f.js",
+    "static/js/2.65450f96.chunk.js",
+    "static/css/main.ade80fe1.chunk.css",
+    "static/js/main.767841a8.chunk.js"
+  ]
+}
