@@ -9,27 +9,27 @@ export default function Services() {
   const data = [
     {
       icon: service1,
-      title: "Get Best Prices",
+      title: "Best value deals",
       subTitle:
-        "Pay through our application and save thousands and get amazing rewards.",
+        "Compare top travel packages, hotels, and flights so you can save more and travel smarter.",
     },
     {
       icon: service2,
-      title: "Covid Safe",
+      title: "Safe and verified stays",
       subTitle:
-        "We have all the curated hotels that have all the precaution for a covid safe environment.",
+        "We partner with trusted hotels and resorts that follow the latest health and safety standards.",
     },
     {
       icon: service3,
-      title: "Flexible Payment",
+      title: "Flexible payment options",
       subTitle:
-        " Enjoy the flexible payment through our app and get rewards on every payment.",
+        "Book now and pay later with flexible plans designed for every traveler’s budget.",
     },
     {
       icon: service4,
-      title: "Find The Best Near You",
+      title: "Local recommendations",
       subTitle:
-        "Find the best hotels and places to visit near you in a single click.",
+        "Explore curated destinations, hidden gems, and experiences recommended by local experts.",
     },
   ];
   return (

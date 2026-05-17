@@ -24,7 +24,7 @@ export default function Navbar() {
 
         <ul>
           <li>
-            <a href="#home">Home</a>
+            <a href="#hero">Home</a>
           </li>
           <li>
             <a href="#services">About</a>
@@ -41,7 +41,7 @@ export default function Navbar() {
       <ResponsiveNav state={navbarState}>
         <ul>
           <li>
-            <a href="#home" onClick={() => setNavbarState(false)}>
+            <a href="#hero" onClick={() => setNavbarState(false)}>
               Home
             </a>
           </li>

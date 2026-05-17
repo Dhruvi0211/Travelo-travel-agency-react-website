@@ -1,14 +1,22 @@
-import React, { useState } from "react";
+import React, { useEffect, useState } from "react";
 import styled from "styled-components";
 import logo from "../assets/logo.png";
 export default function ScrollToTop() {
   const [scrollState, setScrollState] = useState(false);
+
+  useEffect(() => {
+    const handleScroll = () => {
+      setScrollState(window.pageYOffset > 200);
+    };
+    window.addEventListener("scroll", handleScroll);
+    handleScroll();
+    return () => window.removeEventListener("scroll", handleScroll);
+  }, []);
+
   const toTop = () => {
-    window.scrollTo({ top: 0 });
+    window.scrollTo({ top: 0, behavior: "smooth" });
   };
-  window.addEventListener("scroll", () => {
-    window.pageYOffset > 200 ? setScrollState(true) : setScrollState(false);
-  });
+
   return (
     <ToTop onClick={toTop} scrollState={scrollState}>
       <img src={logo} alt="" />

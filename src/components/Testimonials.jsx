@@ -1,6 +1,8 @@
 import React from "react";
 import styled from "styled-components";
-import avatarImage from "../assets/avatarImage.jpeg";
+import avatar1 from "../assets/blog1.jpg";
+import avatar2 from "../assets/blog2.jpg";
+import avatar3 from "../assets/blog3.jpg";
 export default function Testimonials() {
   return (
     <Section id="testimonials">
@@ -10,40 +12,37 @@ export default function Testimonials() {
       <div className="testimonials">
         <div className="testimonial">
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate
-            asperiores eaque.
+            "Travelo made booking our family holiday effortless. The hotel, the sights, and the support team were excellent from start to finish."
           </p>
           <div className="info">
-            <img src={avatarImage} alt="" />
+            <img src={avatar1} alt="Ashley M." />
             <div className="details">
-              <h4>Dhruvi</h4>
-              <span>CEO - XYZ Web Solutions</span>
+              <h4>Ashley M.</h4>
+              <span>Family traveler, New York</span>
             </div>
           </div>
         </div>
         <div className="testimonial">
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate
-            asperiores eaque.
+            "The curated destination recommendations were exactly what we needed. We discovered amazing places and had a seamless trip."
           </p>
           <div className="info">
-            <img src={avatarImage} alt="" />
+            <img src={avatar2} alt="Samuel R." />
             <div className="details">
-              <h4>Dhruvi</h4>
-              <span>CEO - XYZ Web Solutions</span>
+              <h4>Samuel R.</h4>
+              <span>Adventure seeker, London</span>
             </div>
           </div>
         </div>
         <div className="testimonial">
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate
-            asperiores eaque.
+            "Great value, flexible payment, and friendly travel advice. I’ll book again with Travelo for every vacation."
           </p>
           <div className="info">
-            <img src={avatarImage} alt="" />
+            <img src={avatar3} alt="Nina K." />
             <div className="details">
-              <h4>Dhruvi</h4>
-              <span>CEO - XYZ Web Solutions</span>
+              <h4>Nina K.</h4>
+              <span>Business traveler, Sydney</span>
             </div>
           </div>
         </div>
